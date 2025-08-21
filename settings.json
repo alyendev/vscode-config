@@ -1,0 +1,39 @@
+{
+    "workbench.colorTheme": "PyCharm Dark Theme",
+    "workbench.activityBar.location": "hidden",
+    "window.menuBarVisibility": "compact",
+    "chat.commandCenter.enabled": false,
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 8,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.decorations.badges": false,
+    "git.decorations.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "custom-ui-style.electron": {
+        "titleBarStyle": "hiddenInset",
+        "trafficLightPosition": {
+            "x": 20,
+            "y": 16
+        }
+    },
+    "workbench.navigationControl.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "material-icon-theme.opacity": 0.8,
+    "glassit.alpha": 240,
+    "animations.Install-Method": "Custom UI Style",
+    "animations.Enabled": true,
+    "workbench.editorAssociations": {
+        "*.xlsx": "default"
+    },
+    "python.defaultInterpreterPath": "c:\\Python313\\python.exe"
+}
